@@ -1,0 +1,3 @@
+[submodule "test_module_chlid"]
+	path = test_module_chlid
+	url = https://github.com/MarTinazzI/test_module_chlid.git
